@@ -2,7 +2,7 @@
  Run tasks powered by Worker Threads in Node.js
 ## 📦Install
 This is a [Node.js](https://nodejs.org/en/) module available through the
-[npm registry](https://www.npmjs.com/).
+[npm registry](https://www.npmjs.com/package/ntsk).
 
 Before installing, [download and install Node.js](https://nodejs.org/en/download/).
 Node.js 16 or higher is required.
