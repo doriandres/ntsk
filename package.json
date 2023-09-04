@@ -1,0 +1,29 @@
+{
+  "name": "ntsk",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "Run tasks powered by Worker Threads in Node.js",
+  "keywords": [
+    "thread",
+    "task",
+    "worker",
+    "node"
+  ],
+  "main": "index.js",
+  "types": "index.d.ts",
+  "dependencies": {
+    "source-map": "^0.7.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.9"
+  },
+  "repository": {
+    "url": "https://github.com/doriandres/ntsk"    
+  },
+  "author": {
+    "name": "doriandres"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
